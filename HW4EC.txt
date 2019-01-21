@@ -1,0 +1,34 @@
+EXTRA CREDIT
+The DataAnalysisStationTrip has the following method to answer the extra credit questions:
+
+getLeastPopularEndStation(): this method returns the end station with minimum trips, by traversing through all stations listed in station data
+it is found that some stations do not have any trips taken from or to them, as start and end. It returns the first station with 0 trips.
+
+getLeastEndPopularStation(): this method only checks end stations in the trip data and returns the station with minimum trip among those.
+HashMap is used to get key as station and value as number of times they were end stations.
+We then loop through each key to get the one with minimum value and return that station as the least popular station.
+
+WILDCARD:getNumTripsWithDurLess(int time): this method returns the count of number of trips which had duration less that the specified.
+
+getNumPairsOfCloseStations():returns the number of pairs of close stations using formula described: diff lat+ diff long/2< 0.02
+if the difference between latitude and longitude, the sum divided by 2 is less than 0.02 of start and end station for a trip,
+then we consider the two stations to be close to each other.
+We put an additional check by creating an ArrayList of arraylist of integers, which contain arraylist of stations pairs,
+if the stations pair already exist in the list, we do not increment the count of such pairs.
+The arrayList of station pairs is checked for the flipped case as well. 
+i.e if (1,2) is present or (2,1) is present already, we do not consider those again.
+
+1.No of stations close to each other are:3983
+We use getPairsOfCloseStations() of DataAnalysisStationTrip object to get the number of pairs of stations that are close to each other
+
+2.The least popular endStation:Broad & Fitzwater
+We use getLeastPopularEndStation() of DataAnalysisStationTrip object to get the station from stationData with least number of trips as end stations.
+The result is the station name of a station which has 0 trips as end station. This can be seen from the final report.
+
+2.The least popular endStation2:15th & Kitty Hawk
+We use getLeastEndPopularStation() of DataAnalysisStationTrip object to get the end station with least number of trips.
+We only look at endStations from trip data, not looking at station data at all.
+This returns the station among end stations with least no of trips.
+
+3.Wildcard:No. of trips with duration less that 10 min:89327
+We use getTripsWithDurLess(10) of DataAnalysisStationTrip object , with parameter as 10 to represent time,to get the number of trips in the trip data with duration less that 10 min.

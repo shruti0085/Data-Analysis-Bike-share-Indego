@@ -1,0 +1,132 @@
+3000,Virtual Station,33,20.24,141.0,33,-4
+3004,Municipal Services Building Plaza,2354,26.35,1440.0,2174,-82
+3005,Welcome Park, NPS,1155,24.30,1440.0,1076,-151
+3006,40th & Spruce,1256,26.72,1440.0,1182,105
+3007,11th & Pine, Kahn Park,2979,16.19,1440.0,2818,-171
+3008,Temple University Station,800,25.60,1356.0,757,117
+3009,33rd & Market,2631,21.88,1440.0,2472,-12
+3010,15th & Spruce,5552,16.25,1440.0,5270,18
+3011,38th & Lancaster,813,17.81,1440.0,743,238
+3012,21st & Catharine,3313,15.32,1222.0,3162,296
+3013,6th & Fairmount,1467,16.49,757.0,1414,129
+3014,21st & Winter, Franklin Institute,12,125.42,1440.0,3,1
+3015,4th & Walnut, NPS,1637,19.14,1137.0,1569,-89
+3016,11th & Poplar, John F. Street Community Center,220,28.27,1136.0,200,-9
+3017,6th & Berks,341,25.78,433.0,295,-19
+3018,12th & Filbert,2815,24.52,1440.0,2602,-105
+3019,6th & Race,1087,22.40,1304.0,995,33
+3020,University City Station,3813,16.53,1440.0,3673,374
+3021,18th & JFK,5180,17.34,1066.0,4941,-878
+3022,Amtrak 30th Street Station,3245,21.06,1366.0,3082,6
+3023,Rittenhouse Square,4903,21.84,1440.0,4654,-34
+3024,43rd & Chester, Clark Park,1036,29.03,1415.0,897,0
+3025,11th & Washington,1499,15.83,1337.0,1449,-15
+3026,2nd & South,1939,22.55,1440.0,1794,-200
+3027,40th Street Station, MFL,753,19.73,986.0,722,126
+3028,4th & Bainbridge,2905,20.19,1440.0,2727,-150
+3029,36th & Sansom,2152,20.88,1440.0,2022,58
+3030,Darien & Catharine,2163,13.90,994.0,2063,-88
+3031,13th & Montgomery,1160,23.67,799.0,1069,124
+3032,23rd & South,3553,15.30,863.0,3412,46
+3033,10th & Chestnut,1868,19.34,1440.0,1804,-153
+3034,11th & Reed,1829,19.45,1440.0,1694,-130
+3035,Dornsife Center,935,18.41,1081.0,886,348
+3036,2nd & Germantown,846,27.49,1440.0,797,-126
+3037,Pennsylvania Convention Center,1463,25.79,1440.0,1392,-131
+3038,The Children's Hospital of Philadelphia (CHOP),2339,15.42,1041.0,2285,20
+3039,Broad & Girard,1167,29.60,1440.0,1098,320
+3040,17th & Spring Garden, Community College of Philadelphia,2292,18.15,1440.0,2164,443
+3041,Girard Station, MFL,1130,29.93,1292.0,975,-161
+3043,18th & Fernon, Aquinas Center,1110,20.84,1440.0,927,-41
+3045,13th & Locust,3689,19.40,1440.0,3526,6
+3046,2nd & Market,2395,26.47,1440.0,2277,-81
+3047,Independence Mall, NPS,2596,23.56,1440.0,2422,-241
+3048,Broad & Fitzwater,0,0.00,0.0,0,0
+3049,Foglietta Plaza,1555,38.44,1440.0,1302,-251
+3050,9th & Arch,1692,18.34,1440.0,1613,-36
+3051,23rd & Fairmount,2132,21.80,1440.0,1899,309
+3052,9th & Locust,3055,19.11,1440.0,2918,48
+3053,Point Breeze & Tasker,1850,21.74,1439.0,1544,-21
+3054,Rodin Museum,3740,22.33,1440.0,3532,-89
+3055,8th & Market,1636,24.06,1440.0,1558,79
+3056,Broad & Oxford,1905,28.21,1440.0,1717,120
+3057,Philadelphia Museum of Art,4539,42.01,1440.0,3410,-38
+3058,20th & Fairmount,2650,19.78,1440.0,2531,678
+3059,Spring Garden Station, BSL,1911,19.28,1440.0,1821,336
+3060,Free Library of Philadelphia - Central Library,1614,20.20,989.0,1551,-167
+3061,23rd & Market,2242,21.36,1440.0,2086,-56
+3062,24th & Sansom,1423,21.86,983.0,1278,-8
+3063,17th & Pine,2584,18.83,1440.0,2450,107
+3064,18th & Washington, Chew Playground,2390,14.02,755.0,2305,171
+3065,Girard & Hutchinson,429,52.22,1435.0,365,21
+3066,19th & Lombard,2703,14.49,1440.0,2570,126
+3067,39th & Mt. Vernon, Mantua Haverford Community Center,324,30.09,1328.0,160,37
+3068,Broad & Federal,2256,18.34,1440.0,2116,94
+3069,4th & Christian,1460,18.55,1360.0,1343,-177
+3070,Spring Garden Station, MFL,1044,25.20,1440.0,981,-91
+3071,32nd & Baring, Drexel Park,1059,20.43,992.0,964,206
+3072,Front & Carpenter,1293,20.65,1440.0,1203,-90
+3073,9th & Spring Garden,1381,21.79,1440.0,1311,-39
+3074,44th & Walnut,1290,19.53,1343.0,1201,63
+3075,Fairmount & Ridge,1347,18.30,1368.0,1254,111
+3077,17th & Girard,666,22.11,1440.0,616,228
+3078,19th & Market,2198,19.46,1188.0,2096,7
+3086,Broad & Christian,1469,15.40,925.0,1406,0
+3088,3rd & Girard,735,31.78,1386.0,665,-152
+3093,33rd & Diamond,238,46.90,1440.0,189,24
+3095,29th & Diamond,136,38.58,772.0,89,4
+3096,29th & Dauphin,120,49.87,963.0,101,24
+3097,Berks Station, MFL,614,28.57,1440.0,543,-147
+3098,10th & Federal,1416,20.77,1440.0,1358,1
+3099,4th & Washington,1145,18.48,935.0,1071,-131
+3100,Moyamensing & Tasker,1900,23.48,1440.0,1695,-372
+3101,11th & South,3444,22.62,1440.0,3272,-207
+3102,26th & Pennsylvania,3213,22.98,1440.0,2937,-74
+3103,27th & Master, Athletic Recreation Center,405,20.93,554.0,355,15
+3104,34th & Mantua,476,24.50,759.0,434,76
+3105,Penn Treaty Park,0,0.00,0.0,0,0
+3106,33rd & Dauphin,303,53.95,1440.0,239,2
+3107,33rd & Reservoir,488,41.08,1440.0,439,77
+3108,15th & Market,3533,22.28,1440.0,3312,8
+3109,Parkside & Girard,0,0.00,0.0,0,0
+3110,Del. River Trail & Penn St.,734,31.09,1440.0,639,-81
+3111,Parkside & Belmont, Case Buildling,432,39.17,235.0,265,-9
+3112,48th & Spruce,990,20.09,515.0,916,160
+3113,Philadelphia Zoo,259,30.25,537.0,238,6
+3114,22nd & Federal,1826,15.61,507.0,1757,87
+3115,19th & Girard, PTTI,771,18.77,1249.0,730,215
+3117,ParkWest Town Center,181,37.22,630.0,156,35
+3118,46th Street Station, MFL,554,20.33,1406.0,524,47
+3119,42nd & Lancaster,639,35.79,1121.0,450,2
+3120,31st & Girard,1396,26.48,1440.0,1301,102
+3121,26th & Poplar,1158,22.72,1440.0,1112,337
+3122,24th & Cecil B. Moore, Cecil B. Moore Library,88,20.68,103.0,70,8
+3123,22nd & Cecil B. Moore,485,31.14,1038.0,425,68
+3124,Race Street Pier,1192,27.67,1152.0,978,-91
+3125,15th & South,2509,18.06,1440.0,2295,-2
+3129,The Children's Hospital of Philadelphia, East Service Drive,718,13.71,224.0,698,10
+3150,15th & Castle, DiSilvestro Playground,515,22.72,1440.0,467,-116
+3152,40th & Woodland, Trolley Portal,398,27.67,1440.0,370,102
+3153,Thompson & Palmer, Adaire School,436,27.44,1379.0,406,-7
+3154,12th & Callowhill,1484,19.00,1322.0,1408,32
+3156,20th & Market,2171,20.59,1440.0,2071,34
+3157,8th & Mifflin, Bok Building,682,25.68,1440.0,651,-70
+3158,Passyunk & Broad,1267,25.25,1440.0,1131,-68
+3159,38th & Spruce,1084,16.54,353.0,1047,135
+3160,38th & Market,1024,18.40,887.0,995,268
+3161,30th Street Station East,1782,17.90,1294.0,1750,38
+3162,27th & South,1581,20.37,1415.0,1468,-22
+3163,25th & Locust,2208,26.53,1395.0,1911,-57
+3170,Grays Ferry & Pemberton,1276,18.14,1440.0,1195,8
+3155,7th & Fitzwater,1617,17.66,1440.0,1537,59
+3164,12th & Passyunk,753,20.41,867.0,726,-110
+3169,2nd & Race,1102,24.83,1423.0,1035,-87
+3165,24th & Race, Schuylkill River Trail,1548,28.50,1440.0,1341,21
+3168,20th & Sansom,1923,24.94,1440.0,1816,-20
+3116,Barnes Foundation,1751,29.23,1161.0,1616,25
+3167,12th & Chestnut,2210,22.62,1440.0,2098,109
+3166,Frankford & Belgrade,412,30.34,834.0,380,-37
+3183,15th & Kitty Hawk,5,37.40,102.0,4,4
+3186,12th & Normandy,5,3.20,4.0,5,4
+3188,AT&T; Station, BSL,3,135.00,135.0,3,-1
+3181,Crescent Park,12,30.00,59.0,7,-2
